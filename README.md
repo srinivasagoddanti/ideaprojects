@@ -1,0 +1,2 @@
+# ideaprojects
+scala project
